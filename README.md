@@ -22,9 +22,9 @@ apt install git python3 -y
 git clone https://github.com/Dev-Bittu/py-socket-chat.git
 cd py-socket-chat-master
 pip install -r requirements.txt
-
 ```
-Now, your setup is conplete.
+
+Now, your setup is complete.
 So, you can run your server and can chat.
 
 #### Run server and connect with clients
