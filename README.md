@@ -28,7 +28,7 @@ Sockets and the socket API are used to send messages across a network. They prov
 ```bash
 apt install git python3 -y
 git clone https://github.com/Dev-Bittu/py-socket-chat.git
-cd py-socket-chat-master
+cd py-socket-chat
 pip install -r requirements.txt
 ```
 
