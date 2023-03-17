@@ -27,13 +27,6 @@ pip install -r requirements.txt
 Now, your setup is complete.
 So, you can run your server and can chat.
 
-#### Run server and connect with clients
-For starting server,
-```bash
-python
-Now, your setup is conplete.
-So, you can run your server and can chat.
-
 ### Run server and connect with clients
 ##### For starting server
 Type this in your terminal,
