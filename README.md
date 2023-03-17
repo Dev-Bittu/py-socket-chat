@@ -54,3 +54,5 @@ Press CTRL + c
 This project is licensed under the MIT License - see the [LICENSE](LICENSE "Lincense file") for details
 
 # TODO
+  - Add kick system
+  - Show nickname instead of ip
